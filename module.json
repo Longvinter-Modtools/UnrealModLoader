@@ -1,0 +1,8 @@
+{
+  "name": "UnrealModLoader",
+  "author": "Tsukasaroot",
+  "description": "Core System for mods!",
+  "version": "2.2.1",
+  "servers": ["https://raw.githubusercontent.com/Longvinter-Modtools/UnrealModLoader/main/"],
+  "conflicts": [""]
+}
